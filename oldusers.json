@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "61e66cc581f0f36604acb9fe"
+  },
+  "name": "gaurav",
+  "email": "kb9@gmail.com",
+  "password": "$2b$12$Jyl.gY4M4bGDX1j4Lwjq2eT6epiK12LoHNeB36EsgW.eK1p/E.D26",
+  "__v": 0,
+  "role": "user",
+  "passwordChangedAt": {
+    "$date": "2022-01-23T09:29:44.968Z"
+  },
+  "active": "false",
+  "passwordResetExpire": {
+    "$date": "2022-01-23T10:04:34.069Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e6d2f7bd1cfd6f501a581d"
+  },
+  "name": "gaurav",
+  "email": "kb11@gmail.com",
+  "password": "$2b$12$iLXYbRxJ5a6JhchQoS1YU.R6V2jaXP2TVchjNK68hUpAljqqi5Qay",
+  "__v": 0,
+  "passwordResetExpire": {
+    "$date": "2022-01-19T16:57:36.848Z"
+  },
+  "role": "user",
+  "passwordResetToken": "b35edab3c03daca6389d9a8a834369227aa7ea6044a2ec396be24b6aae33688b"
+},{
+  "_id": {
+    "$oid": "61e7b8139cb95a5490c28e05"
+  },
+  "name": "gaurav",
+  "email": "secure@gmail.com",
+  "password": "$2b$12$1eqyqK0I2PYHT0ThBlvaPua5CLZEdHjEYMA7c7ZuqIZ23jr3aINR6",
+  "passwordConfirm": "newPass12",
+  "__v": 0,
+  "role": "user",
+  "passwordChangedAt": {
+    "$date": "2022-01-21T15:53:50.043Z"
+  }
+},{
+  "_id": {
+    "$oid": "61e7dfc4270be472bc647b61"
+  },
+  "name": "gaurav",
+  "email": "pm2@gmail.com",
+  "password": "$2b$12$0CghksE6uJjzs8x0v2uuK.WFke9VHxxMqpEOOIfMpHFy8SZLzbjjK",
+  "passwordConfirm": "12345678",
+  "passwordChangedAt": {
+    "$date": "2022-01-19T00:00:00Z"
+  },
+  "__v": 0,
+  "passwordResetExpire": {
+    "$date": "2022-01-19T16:55:20.586Z"
+  },
+  "role": "user",
+  "passwordResetToken": "ef9f9b3e88a4139510ea9dfc015c5ee0ec7b3d8dfabf08394ae0b9eb92979791"
+},{
+  "_id": {
+    "$oid": "61e7f65b8a30825ebc2c56ea"
+  },
+  "role": "user",
+  "name": "uswr",
+  "email": "user@gmail.com",
+  "password": "$2b$12$/T/5LcZZbCUE3JYri3aUGexFmcVuszqxSFVygugKGnXZQss0Fm.9y",
+  "passwordConfirm": "12345678",
+  "passwordChangedAt": {
+    "$date": "2022-01-19T00:00:00Z"
+  },
+  "__v": 0,
+  "passwordResetExpire": {
+    "$date": "2022-01-19T16:50:44.926Z"
+  },
+  "passwordResetToken": "e38f03e4d28dd9006ea4e185bf8ce0433035d413ab644c552c08ce2a6422e8af"
+},{
+  "_id": {
+    "$oid": "61ea8535445f2958f44ac736"
+  },
+  "role": "user",
+  "name": "uswr",
+  "email": "user4@gmail.com",
+  "password": "$2b$12$tYpZ5DOjYdEbRYWFOOU8c.UW71oII6xZqX9.whPljrYB1fHg71fzG",
+  "passwordConfirm": "12345678",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ea85919cd5e43b7c9d10ca"
+  },
+  "role": "user",
+  "name": "uswr",
+  "email": "user2@gmail.com",
+  "password": "$2b$12$ojsTJsLejYM8vcKrvloZTOPHdIyJA5a40oBmihT1galQnjokIz.y2",
+  "passwordConfirm": "12345678",
+  "passwordChangedAt": {
+    "$date": "2022-01-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ed1ec18fc6ab552475e733"
+  },
+  "role": "admin",
+  "active": "true",
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$12$vFPg.EvG70iAiwLPY4WcGOvJRYQ38v953wHYYOIUqrC2NTCaKzI4a",
+  "passwordChangedAt": {
+    "$date": "2022-01-23T00:00:00Z"
+  },
+  "__v": 0
+}]
